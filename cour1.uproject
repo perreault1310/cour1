@@ -10,6 +10,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
